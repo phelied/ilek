@@ -1,0 +1,53 @@
+.App {
+    text-align: center;
+  }
+  
+  .title {
+    color: #6200BE;
+  }
+  
+  .questionnaire {
+    margin-top: 20px;
+    text-align: right;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .question-title {
+    color: #6200BE;
+  }
+  
+  .answers-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  .answer {
+    margin-bottom: 5px;
+  }
+  
+  .answer-label {
+    display: inline-block;
+    margin-left: 5px;
+    color: black;
+  }
+  
+  .submit-button {
+    background-color: #B3D93B;
+    color: #FFFFFD;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .score {
+    color: #FD7F52;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
